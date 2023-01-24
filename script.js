@@ -41,3 +41,39 @@
 //     console.log(i);
 //     i++;
 // }while(i < 150);
+
+
+//4
+// let numbersArray = [1,2,3,4];
+
+// let arrayLength = numbersArray.lengthl
+// console.log(arrayLength);
+
+
+//((((**************))))
+// switch (fruits) {
+//     case "banana":
+//         alert("hello")
+//         break;
+//     case "apple":
+//         alert("welcome")
+//         break;
+// }
+
+
+// // პირველი ასო რო დიდი დაიწეროს
+// let test = "alex";
+
+// let cap = test.charAt(0). toUpperCase() + test.slice(1);
+
+// console.log(cap);
+
+
+// //4
+// let arr = [];
+
+// for (let index = 0; index < 100; index++) {
+//     arr.push(index*index);
+    
+// }
+// console.log(arr);
